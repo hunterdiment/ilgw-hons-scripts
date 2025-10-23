@@ -1,0 +1,12 @@
+""	"ASV"	"ALR"	"BBR"	"CRM"	"CSP"	"HGA"	"MCP"	"PAP"	"RGR"	"WMP"
+"1"	"Angophora floribunda"	36	23	1	0	65	0	0	8	0
+"2"	"Eucalyptus eugenioides or globoidea"	3	117	38	8	5	0	1	15	0
+"3"	"Eucalyptus globoidea"	52	20	112	0	23	0	1	0	2
+"4"	"Eucalyptus longifolia"	154	0	90	0	51	0	5	0	14
+"5"	"Eucalyptus amplifolia or tereticornis"	0	137	12	66	0	37	0	194	0
+"6"	"Eucalyptus bosistoana"	0	1	0	7	0	0	0	0	0
+"7"	"Eucalyptus eugenioides"	0	28	0	9	0	0	0	6	1
+"8"	"Eucalyptus pilularis"	0	5	0	0	5	0	1	0	3
+"9"	"Eucalyptus tereticornis"	0	37	1	14	0	0	0	36	14
+"10"	"Eucalyptus paniculata"	0	0	0	0	0	0	13	0	11
+"11"	"Eucalyptus amplifolia"	0	0	0	0	0	0	0	0	2

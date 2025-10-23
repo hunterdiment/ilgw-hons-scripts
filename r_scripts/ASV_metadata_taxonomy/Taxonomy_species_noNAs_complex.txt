@@ -1,0 +1,7 @@
+Angophora floribunda,Angophora,Angophora floribunda
+Eucalyptus longifolia,Eucalyptus,Eucalyptus longifolia
+Stringybark complex,Eucalyptus,Stringybark complex
+Eucalyptus bosistoana,Eucalyptus,Eucalyptus bosistoana
+Eucalyptus pilularis,Eucalyptus,Eucalyptus pilularis
+Redgum complex,Eucalyptus,Redgum complex
+Eucalyptus paniculata,Eucalyptus,Eucalyptus paniculata

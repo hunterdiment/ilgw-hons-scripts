@@ -1,0 +1,10 @@
+SampleID,size,site
+ALR,large,ALR
+BBR,large,BBR
+CRM,large,CRM
+CSP,small,CSP
+HGA,medium,HGA
+MCP,small,MCP
+PAP,small,PAP
+RGR,medium,RGR
+WMP,medium,WMP

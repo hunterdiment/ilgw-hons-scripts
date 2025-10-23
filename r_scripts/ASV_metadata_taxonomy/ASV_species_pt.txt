@@ -1,0 +1,8 @@
+""	"ASV"	"ALR_2"	"ALR_3"	"ALR_4"	"ALR_5"	"ALR_6"	"BBR_2"	"BBR_3"	"BBR_4"	"BBR_5"	"BBR_6"	"CRM_1"	"CRM_2"	"CRM_3"	"CRM_4"	"CRM_6"	"CSP_1"	"HGA_1"	"HGA_2"	"HGA_3"	"MCP_1"	"PAP_1"	"RGR_1"	"RGR_2"	"RGR_3"	"WMP_2"	"WMP_3"	"WMP_4"
+"1"	"Angophora floribunda"	22	0	0	0	14	2	0	17	3	1	0	1	0	0	0	0	3	62	0	0	0	8	0	0	0	0	0
+"2"	"Eucalyptus longifolia"	20	29	44	47	14	0	0	0	0	0	29	9	34	15	3	0	22	3	26	0	5	0	0	0	0	14	0
+"3"	"Stringybark complex"	15	10	0	13	17	13	22	84	3	43	31	25	29	21	44	17	3	18	7	0	2	19	2	0	0	3	0
+"4"	"Eucalyptus bosistoana"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0
+"5"	"Eucalyptus pilularis"	0	0	0	0	0	1	1	0	3	0	0	0	0	0	0	0	3	2	0	0	1	0	0	0	3	0	0
+"6"	"Redgum complex"	0	0	0	0	0	45	32	11	25	61	1	0	0	12	0	80	0	0	0	37	0	31	84	115	2	7	7
+"7"	"Eucalyptus paniculata"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	1	10
