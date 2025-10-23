@@ -1,0 +1,31 @@
+date,The date the observation was made
+site_id,A unique identifier for each site; 9 possible values
+point_id,A unique identifier for the random point at which the sampling was done; takes the format of the site ID and a numeral indicating when the point was examined
+obs_id,A unique identifier for each observation (ie. tree); takes the format of the point ID and a numeral indicating when the tree was observed
+obs_no,A 3-digit numeral indicating the order observations were taken in
+latitude,The decimal latitude of the observation
+longitude,The decimal longitude of the observation
+datum,The coordinate reference system used for lat/long
+species,The species of the tree observed
+unconfirmed_species,"The species of the tree observed, including observations where a confident identification could not be made but a tentative identification could (usually due to young life stage or inconclusive diagnostic material)"
+unconfirmed_id,"An indicator of whether a tree has no confirmed species, but an unconfirmed species (T/F)"
+diagnostic_material,The material/evidence used to identify the tree
+life_stage,"Life stage metric; 1 indicates sapling, 2 indicates mature, 3 indicates huge veteran. Mostly used for data cleaning (if tree was stage 1 and had 1.2m DBH, that’s a sign something was wrong)"
+cbh_m,The circumference at breast height (CBH) of the tree; measured at 1.3 metres height
+dbh_cm,The diameter at breast height (DBH) of the tree; measured at 1.3 metres height; CBH * pi
+new_tip_growth,A measure of new tip growth per Souter et al. (2010); takes a value from 0-3
+epicormic_growth,A measure of epicormic growth per Souter et al. (2010); takes a value from 0-3
+dieoff,A measure of leaf dieoff per Souter et al. (2010); takes a value from 0-3
+reproductive_behaviour,A measure of the relative abundance of reproductive structures on the tree per Souter et al. 2010; takes a value from 0-3
+mistletoe_load,A measure of mistletoe growth per Souter et al. (2010); takes a value from 0-3
+insect_damage,A measure of insect damage per Souter et al. (2010); takes a value from 0-3
+alive,Indicator of if the tree was alive or not (T/F)
+fallen,Indicator of if the tree was fallen or not (T/F)
+recent_fire_evidence,Indicator of if there was evidence of a recent (last 10 years) fire in the immediate area of the observation
+forked_at_ground_level,Indicator of if the tree was forked at ground level (inflating the tree’s DBH)
+forked_below_ground_level,Indicator of if the tree was forked below ground level and only the measurement of a single trunk was included in the cbh_m/dbh_m field (deflating the tree’s DBH)
+visibility,The state of cloud cover/rain; recorded because contrast/sun affects how easy it is to determine new tip growth
+notes,Additional notes about the observation
+,
+References,Link
+Souter et al. 2010,https://www.sciencedirect.com/science/article/pii/S1470160X10000397

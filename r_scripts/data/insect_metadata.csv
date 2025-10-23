@@ -1,0 +1,32 @@
+voucher,Unique identifier for the contents of each trap; takes the format of [first three letters of collector’s name][site_id][set_date][trap_no]
+collector,Name of collector
+trap_id,Unique identifier for each trap
+site_id,Unique identifier for each site
+trap_no,Number of the trap (1-4)
+set_date,Date the trap was set
+set_time,Time the trap was set
+pack_date,Date the trap was packed down and cleared
+pack_time,Time the trap was packed down and cleared
+trapping_duration,Duration of trapping (hours)
+location,Name of location
+lat,Latitude of trap
+long,Longitude of trap
+datum,Datum used for latitude and longitude
+tree_species,Tentative species identification for the tree the trap was set on
+branch_bearing,Absolute bearing of the branch the trap was set on
+weather,Weather at the time the trap was set
+photo_trap_height,Height of the trap as measured by photograph
+measured_trap_height,Height of the trap as measured directly
+coleoptera,Number of Coleoptera captured in the trap
+diptera,Number of Diptera captured in the trap
+hemiptera,Number of Hemiptera captured in the trap
+hymenoptera,Number of Hymenoptera captured in the trap
+lepidoptera,Number of Lepidoptera captured in the trap
+orthoptera,Number of Orthoptera captured in the trap
+psocodea,Number of Psocodea captured in the trap
+thysanoptera,Number of Thysanoptera captured in the trap
+trichoptera,Number of Trichoptera captured in the trap
+araneae,Number of spiders captured in the trap
+other non-insect,Number of non-spider non-insect arthropods captured in the trap
+unidentified,Number of unidentified insects captured in the trap
+notes,Miscellaneous notes
